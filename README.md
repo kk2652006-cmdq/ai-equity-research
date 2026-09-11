@@ -26,4 +26,4 @@ Asian Paints Ltd — HOLD, Target ₹2,650–2,850
 - Human review remains essential for accuracy
 
 ## Author
-[Kumaran B] | MBA-BF
+[Kumaran B] | MBA-BFS
